@@ -26,3 +26,9 @@ h2, h3{
     color: rgba(168, 110, 23, 0.856);
     font-size: 30px;
 }
+*{
+    font-family: sans-serif;
+}
+a{
+    margin-left: 1100px;
+}
